@@ -4,7 +4,7 @@
 - 💞️ Estoy buscando colaborar en proyectos emocionantes que me permitan aplicar mis habilidades y aprender de otros desarrolladores.
 - 📫 Puedes contactarme a través de mi correo electrónico (drt_94@hotmail.com) o en mi perfil de LinkedIn https://www.linkedin.com/in/diego-rivera-torrero-053932129/
 - 😄 Pronombres: él.
-- 🚀 Tecnologías y Aplicaciones: He trabajado con Python, SQL, BigQuery, HTML, CSS, JavaScript, Java
+- 🚀 Tecnologías y Aplicaciones: He trabajado con Python, SQL, BigQuery, HTML, CSS,Java
 
 -------------
 
@@ -15,4 +15,4 @@
     💞️ I'm looking to collaborate on exciting projects that allow me to apply my skills and learn from other developers.
     📫 You can contact me via email (drt_94@hotmail.com) or on my LinkedIn profile at https://www.linkedin.com/in/diego-rivera-torrero-053932129/
     😄 Pronouns: he/him.
-    🚀 Technologies and Applications: I've worked with Python, SQL, BigQuery, HTML, CSS, JavaScript, and Java.
+    🚀 Technologies and Applications: I've worked with Python, SQL, BigQuery, HTML, CSS and Java.
